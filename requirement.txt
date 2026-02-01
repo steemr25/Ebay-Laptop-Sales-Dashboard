@@ -1,4 +1,9 @@
-streamlit 
-pandas 
-numpy 
-plotly.express 
+streamlit
+plotly
+pandas
+numpy
+scikit-learn
+sqlalchemy
+matplotlib
+seaborn
+statsmodels
